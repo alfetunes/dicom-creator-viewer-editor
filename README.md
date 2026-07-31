@@ -43,12 +43,6 @@ Designed primarily for **QA engineers**, **developers**, **researchers**, and an
 
 ---
 
-## Screenshots
-
-> Screenshots will be added in future releases.
-
----
-
 ## Technologies
 
 - Python 3
@@ -69,7 +63,6 @@ simple-dicom-editor/
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
-└── .gitignore
 ```
 
 ---
@@ -79,7 +72,7 @@ simple-dicom-editor/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/simple-dicom-editor.git
+git clone https://github.com/alfetunes/simple-dicom-editor.git
 
 cd simple-dicom-editor
 ```
