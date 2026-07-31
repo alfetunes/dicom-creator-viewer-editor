@@ -72,7 +72,7 @@ simple-dicom-editor/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/alfetunes/simple-dicom-editor.git
+git clone https://github.com/alfetunes/dicom-creator-viewer-editor.git
 
 cd simple-dicom-editor
 ```
